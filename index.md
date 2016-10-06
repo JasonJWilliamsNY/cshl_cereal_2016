@@ -3,9 +3,8 @@
 ![](img/cyverse_rgb.jpg) 
 
 ## Welcome to CyVerse!
-**2016 Solenacea Conference**<br>
-###Adobe Connect Information:
-**Link:** [https://cshl.adobeconnect.com/getstarted](https://cshl.adobeconnect.com/getstarted)<br>
+**2016 CSHL Cereal Genomics Workshop**<br>
+<br>
 **Presenter:** 
 - Jason Williams: [williams@cshl.edu](mailto:williams@cshl.edu) / Twitter: [@JasonWilliamsNY](https://twitter.com/JasonWilliamsNY)
 
@@ -17,7 +16,7 @@ CyVerse is of, by, and for the community, and community-driven needs shape our m
 
 While originally created with the name iPlant Collaborative to serve U.S. plant science communities, CyVerse cyberinfrastructure is germane to all life sciences disciplines and works equally well on data from plants, animals, or microbes. By democratizing access to supercomputing capabilities, we provide a crucial resource to enable scientists to find solutions for the future.
 
-## Workshop Agenda
+## Tutorials List
 
 In this workshop we will cover brief tutorials and documentation that will get you started using CyVerse tools and services right away. 
 
@@ -34,8 +33,8 @@ In this workshop we will cover brief tutorials and documentation that will get y
 
 |Topic|Resource|
 |-----|--------|
-|Workshop Slides|[slides](./ppts_pdfs/workshop_intro.pdf)
-|Genomics Workflows|[brochure](./ppts_pdfs/genome_workflows.pdf)|
+|Workshop Slides|[TBP]()
+|Genomics Workflows|[TBP]()|
 
 ### Utilities/software
 - Cyberduck Download Utility - [Link](https://cyberduck.io/)
