@@ -33,8 +33,8 @@ In this workshop we will cover brief tutorials and documentation that will get y
 
 |Topic|Resource|
 |-----|--------|
-|Workshop Slides|[TBP]()
-|Genomics Workflows|[TBP]()|
+|Workshop Slides|[slides](./ppts_pdfs/workshop.pdf)
+|Genomics Workflows|[slides](./ppts_pdfs/workflows.pdf)|
 
 ### Utilities/software
 - Cyberduck Download Utility - [Link](https://cyberduck.io/)
